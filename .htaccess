@@ -1,0 +1,7 @@
+<Files rnames.txt>
+Deny from all 
+</Files>
+
+<Files ajachat.sql>
+Deny from all 
+</Files>
