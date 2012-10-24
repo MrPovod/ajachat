@@ -17,3 +17,7 @@ Installation:
  - Go to php-admin and import ajachat.sql
  - Go to config.php and change database settings.
  - It works.
+
+
+Screenshots:
+ - https://www.dropbox.com/s/ktlr3ag0p61tde1/screen_2.png
