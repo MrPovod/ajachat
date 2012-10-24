@@ -5,3 +5,7 @@ Deny from all
 <Files ajachat.sql>
 Deny from all 
 </Files>
+
+<Files README.md>
+Deny from all 
+</Files>
